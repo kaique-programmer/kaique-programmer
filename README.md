@@ -1,17 +1,9 @@
 ### Hi there 👋
-
-<!--
-**kaique-programmer/kaique-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
-- 🔭 I’m currently live in Brasil:vampire_man:
-- 🌱 I’m currently learning more Java and yours libraries:desktop_computer:
-- 👯 I’m looking to collaborate on communities Java
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## I'm kaique Oliveira
+- I’m currently live in Brasil:vampire_man:
+- I’m currently learning more Java and yours libraries:desktop_computer:
+- I’m looking to collaborate on communities Java
+- I’m looking for help with ...
 
 
 ## Connect with me:
@@ -24,18 +16,12 @@
 </a>
 
 ## My Skills
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="40" width="40" style="max-width:100%;"></img>
-
+<img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="40" style="max-width:100%;"></img>
 <img alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;"></img>
-
 <img alt="html5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"></img>
-
 <img alt="css3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"></img>
-
 <img alt="java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width:100%;"></img>
-
 <img alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width:100%;"></img>
-
 <img alt="github" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;"></img>
 
 ## Card
