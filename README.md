@@ -3,8 +3,6 @@
 - I’m currently live in Brasil:vampire_man:
 - I’m currently learning more Java and yours libraries:desktop_computer:
 - I’m looking to collaborate on communities Java
-- I’m looking for help with ...
-
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/kaique-oliveira-santos-75a3951a0/" target="_blank">
