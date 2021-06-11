@@ -5,7 +5,7 @@
 - I’m looking to collaborate on communities Java
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/kaique-oliveira-santos-75a3951a0/" target="_blank">
+<a href="https://www.linkedin.com/in/kaique-oliveira-santos/" target="_blank">
 <img align="center" alt="Kaique-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" style="max-width:100%;">
 </a>
 
