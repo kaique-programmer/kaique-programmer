@@ -21,6 +21,7 @@
 <img alt="java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width:100%;"></img>
 <img alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width:100%;"></img>
 <img alt="github" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;"></img>
+<img alt="spring-boot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" style="max-width:100%;" />
 
 ## Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaique-programmer)](https://github.com/kaique-programmer/github-readme-stats)
