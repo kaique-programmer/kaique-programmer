@@ -24,10 +24,12 @@
 <img alt="heroku" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" style="max-width:100%;"></img>
 <img alt="spring-boot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" style="max-width:100%;"></img>
 <img alt="postgreSql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" style="max-width:100%;"></img>
+<img alt="mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;" />
 <img alt="visual studio code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style="max-width:100%;"></img>
 <img alt="intellij" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" style="max-width:100%;"></img>
 <img alt="npm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="max-width:100%;" />
-<img alt="npm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width:100%;" />
+<img alt="yarn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" style="max-width:100%;" />
+<img alt="linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width:100%;" />
 
 ## Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaique-programmer)](https://github.com/kaique-programmer/github-readme-stats)
